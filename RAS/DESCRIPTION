@@ -1,0 +1,15 @@
+Package: RAS
+Type: Package
+Title: Anything you want: from solving problems to giving you directions
+Version: 1.0
+Date: 2015-11-12
+Author: Clara Schartner
+Maintainer:  Clara Schartner <Clara.schartner@gmail.com>
+License: GPL-3
+Imports: httr,
+    ggplot2,
+    ggmap,
+    mapproj,
+    maps
+Suggests:knitr
+VignetteBuilder: knitr
