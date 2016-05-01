@@ -1,2 +1,2 @@
 # RAS
-Get RAS now!
+Just for fun
