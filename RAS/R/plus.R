@@ -10,6 +10,6 @@
 #'
 
 
-`+`<-function(a,b){
+plus<-function(a,b){
   2*a-(a-b)*4-3
 }
