@@ -9,10 +9,16 @@
 #'
 
 
-solvemyproblem<-function(x){
-  print(sample(c("Lös dein Problem selber", 
-                   "Du glaubst doch nicht, dass ein Programm das etwas mit SAS zu tun hat, soetwas kann",
-                  "Geh, bitte das kannst du aber allein auch", 
-                   "Das ist doch kein Problem (es sei denn du wohnst im Burgenland)"),1))
+
+solvemyproblem <- function(x) {
+  print(sample(
+    c(
+      "Lös dein Problem selber",
+      "Du glaubst doch nicht, dass ein Programm das etwas mit SAS zu tun hat, soetwas kann",
+      "Geh, bitte das kannst du aber allein auch",
+      "Das ist doch kein Problem (es sei denn du wohnst im Burgenland)"
+    ),
+    1
+  ))
   
 }
